@@ -1,0 +1,69 @@
+.element {
+    width: 200px;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px black;
+  }
+
+  .server {
+    font-weight: bold;
+    font-size: 25px;
+    color: darkblue;
+    text-align: center;
+  }
+
+  .introduction {
+    font-size: 20px;
+  }
+  .name {
+    text-align: center;
+    font-size: 30px;
+  }
+  body {
+    background-color:black;
+    font-family: sans-serif;
+  }
+  .tablink {
+    background-color: orange;
+    color:blue;
+    float:left;
+    cursor: pointer;
+    padding: 14px 17px;
+    width: 20%;
+    border-radius: 33.3333333333%;
+  }
+  .tablink:hover {
+    background-color: red;
+  }
+  .tabcontent {
+    height: 100%;
+    display: none;
+  }
+
+  #Intro {
+    background-color: black;
+  }
+  #life {
+    background-color: black;
+  }
+  #career {
+    background-color: black;
+  }
+  #quotes {
+    background-color: black;
+  }
+  #myself {
+    background-color: black;
+  }
+  .tabs {
+    text-align: center;
+  }
+  .writing {
+      color: white;
+  }
+  .boxed {
+      border: 1px solid green;
+  }
